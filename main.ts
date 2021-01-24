@@ -1,0 +1,5 @@
+basic.showIcon(IconNames.Yes)
+DFRobotMaqueenPlus.mototRun(Motors.M1, Dir.CW, 200)
+basic.pause(2000)
+DFRobotMaqueenPlus.mototRun(Motors.M1, Dir.CW, 200)
+basic.showIcon(IconNames.No)
